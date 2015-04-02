@@ -1,0 +1,30 @@
+{
+  "name": "fullPage.js",
+  "version": "2.6.3",
+  "description": "Create  beautiful fullscreen scrolling websites",
+  "main": "jquery.fullPage.js",
+  "directories": {
+    "example": "examples"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HashanP/fullPage.js"
+  },
+  "keywords": [
+    "jquery",
+    "scrolling",
+    "jquery-plugin",
+    "single_page",
+    "one_page",
+    "sliding"
+  ],
+  "author": "Alvaro Trigo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HashanP/fullPage.js/issues"
+  },
+  "homepage": "https://github.com/HashanP/fullPage.js",
+  "peerDependencies": {
+    "jquery": "*"
+  }
+}

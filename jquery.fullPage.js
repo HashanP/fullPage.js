@@ -1,3 +1,7 @@
+if (typeof module === "object" && typeof module.exports === "object") {
+    var jQuery = require("jquery");
+}
+
 /**
  * fullPage 2.6.3
  * https://github.com/alvarotrigo/fullPage.js
